@@ -1,0 +1,15 @@
+[general]
+name=SelectOnHover
+description=Select features by hovering the mouse; cursor becomes a circle. Radius can be in pixels or map units. Uses spatial indexing and layer visibility/active-layer filters.
+version=2.0
+qgisMinimumVersion=3.0
+author=nkkkki (improved)
+email=nkkkki@example.com
+icon=icon.svg
+about=SelectOnHover plugin: automatically select features when the mouse touches them. Features: spatial indexing, debounced hover, visual rubber band, selection modes (add/replace/toggle), radius in pixels or map units, auto-rebuild indexes on layer changes.
+tags=selection,hover,cursor,tools,spatialindex
+homepage=
+tracker=
+repository=
+experimental=false
+deprecated=false
